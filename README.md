@@ -2,7 +2,7 @@
 
 # Task 3 – SQL SELECT Queries
 
-This repository contains solutions for Task 3 of the SQL Developer Internship. The goal of this task is to practice and demonstrate the ability to retrieve and filter data using basic SQL `SELECT` queries.
+This repository contains solutions for Task 3 of the SQL Developer Internship.
 
 ## ✅ Objectives Covered
 
