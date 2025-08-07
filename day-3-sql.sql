@@ -22,7 +22,7 @@ SELECT * FROM orders WHERE order_date BETWEEN '2025-08-01' AND '2025-08-03';
 -- first 5 records from payments table
 SELECT * FROM payments LIMIT 5;
 
--- Get all products in categories 'Electronics', 'Fashion', or 'Home'
+-- Get all products in categories 'Electronics', 'Fashion', or 'Home , display one id from electronics'
 
 SELECT * FROM products 
 WHERE category_id IN (
